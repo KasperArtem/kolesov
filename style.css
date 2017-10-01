@@ -1,0 +1,55 @@
+body { margin: 0;
+	padding: 27px 0;color: #666; font: normal 18px/28px Helvetica, Arial, sans-serif; background: url("images/fon2.jpg"); }
+.clear { clear: both;}
+p { margin: 0; padding: 10px 0;}
+a { color: #0000ff; text-decoration: underline;}
+a:hover { color: #7777ff;}
+a img { border: none;}
+h3, h4, h5, h6 {
+	margin-top: 0;
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: 0;
+	padding: 0; font-weight: bold; color: #000;}
+h1 {
+	color: #023875; font-size: 35px}
+h2 {color: white; font-size: 17px}
+h1 { padding: 10px 0 10px; line-height: 50%;}
+h2 { padding: 0 0 5px;}
+strong { font-weight: bold;}
+em { font-style: italic;}
+form, menu, iframe { display: block; margin: 0; padding: 0; border: none;}
+ol, ul, dl, li, dt, dd { margin: 0; padding: 0; list-style: none; font-size: 15px}
+* { outline: none;}
+footer { margin: auto; color: #666666;
+	line-height: 28px;
+	font-weight: normal;
+	font-variant: normal;
+	font-style: normal;
+	font-size: 18px;
+	font-family: Helvetica, Arial, sans-serif;
+	background-color: blue;}
+.wh {
+	color: white; font-size: 12px;
+}
+.le {
+	color: #023875; font-size: 30px}
+.el {
+	color: #023875;
+	font-size: 20px;}
+p.hw {color: black; font-size: 15px}
+p.text {color: black; font-size: 16px}
+.resize {
+	width: 928px;
+	background: white;
+	margin: auto;
+	padding: 0 16px;
+}
+
+.footer, .line {
+	margin: 5px -16px;
+	border-radius: 5px;
+	padding: 0px 26px;
+	color: #fff;
+	background: #023875;
+a:hover { color: darkblue}
